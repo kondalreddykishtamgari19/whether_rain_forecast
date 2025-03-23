@@ -1,0 +1,3 @@
+rain_dataset----Dataset for model training
+test_dataset ----Dataset to test
+weather_monitoring---Jupyter notebook for project.
